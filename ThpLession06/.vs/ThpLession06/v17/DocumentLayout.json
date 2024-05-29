@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|d:\\asp.net_thp\\thp_lesson06 - data validation and annotation\\thplession06\\thplession06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|solutionrelative:thplession06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|d:\\asp.net_thp\\thp_lesson06 - data validation and annotation\\thplession06\\thplession06\\views\\thpsong\\thpcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|solutionrelative:thplession06\\views\\thpsong\\thpcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|d:\\asp.net_thp\\thp_lesson06 - data validation and annotation\\thplession06\\thplession06\\views\\thpsong\\thpindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|solutionrelative:thplession06\\views\\thpsong\\thpindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|d:\\asp.net_thp\\thp_lesson06 - data validation and annotation\\thplession06\\thplession06\\controllers\\thpsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|solutionrelative:thplession06\\controllers\\thpsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|d:\\asp.net_thp\\thp_lesson06 - data validation and annotation\\thplession06\\thplession06\\models\\thpsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B1ED39-E75B-4E18-AF70-903C79E73A26}|ThpLession06\\ThpLession06.csproj|solutionrelative:thplession06\\models\\thpsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThpCreate.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Views\\ThpSong\\ThpCreate.cshtml",
+              "RelativeDocumentMoniker": "ThpLession06\\Views\\ThpSong\\ThpCreate.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Views\\ThpSong\\ThpCreate.cshtml",
+              "RelativeToolTip": "ThpLession06\\Views\\ThpSong\\ThpCreate.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:24:57.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThpLession06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThpLession06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:57:12.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThpIndex.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Views\\ThpSong\\ThpIndex.cshtml",
+              "RelativeDocumentMoniker": "ThpLession06\\Views\\ThpSong\\ThpIndex.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Views\\ThpSong\\ThpIndex.cshtml",
+              "RelativeToolTip": "ThpLession06\\Views\\ThpSong\\ThpIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:56:03.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThpSongController.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Controllers\\ThpSongController.cs",
+              "RelativeDocumentMoniker": "ThpLession06\\Controllers\\ThpSongController.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Controllers\\ThpSongController.cs",
+              "RelativeToolTip": "ThpLession06\\Controllers\\ThpSongController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:38:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThpSong.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Models\\ThpSong.cs",
+              "RelativeDocumentMoniker": "ThpLession06\\Models\\ThpSong.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\THP_Lesson06 - Data Validation and Annotation\\ThpLession06\\ThpLession06\\Models\\ThpSong.cs",
+              "RelativeToolTip": "ThpLession06\\Models\\ThpSong.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:33:01.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

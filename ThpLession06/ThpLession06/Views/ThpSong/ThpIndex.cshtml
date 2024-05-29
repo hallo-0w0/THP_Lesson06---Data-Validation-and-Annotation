@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ThpLession06.Models.ThpSong>
+
+@{
+    ViewBag.Title = "Thp:Danh sách bài hát";
+}
+
+<h2>Thp:Danh sách bài hát</h2>
+
+<p>
+    @Html.ActionLink("Create New", "ThpCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ThpTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ThpAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ThpArtist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ThpYearRelease)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ThpTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ThpAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ThpArtist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ThpYearRelease)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
